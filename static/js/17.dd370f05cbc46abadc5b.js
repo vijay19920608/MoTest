@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{qMXc:function(e,t,i){"use strict";i.r(t);var s=function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("safetyOverviewRight")])};s._withStripped=!0;var n=i("SsL+"),r=Object(n.a)({},s,[],!1,null,null,null);r.options.__file="src/theme/safetyOverview/safetyOverviewRight.vue";t.default=r.exports}}]);
